@@ -1,2 +1,3 @@
-web: npm run build
-web: npm run start:prod
+web: yarn install
+web: yarn run build
+web: yarn run start:prod
